@@ -1,0 +1,53 @@
+
+                      *** Computer Science Degree Plan ***
+
+Year 1
+
+Fall Semester:
+- General Chemistry I (CHEM) 1311
+- Composition I (ENGL) 1301
+- Engineering Mathematics I (MATH) 2416
+
+Spring Semester:
+- Engineering Mathematics II (MATH) 2417
+- General Chemistry II (CHEM) 1312
+- Newtonian Mechanics for Engineering and Science (PHYS) 1356
+
+----------------------------------------------------------------------------
+Year 2
+
+Fall Semester:
+- Introduction to Computing (CSCE) 1336
+- Discrete Structures for Computing (CSCE) 1358
+- Linear Algebra I (MATH) 2318
+
+Spring Semester:
+- Data Structures and Algorithms (CSCE) 2428
+- Computer Organization (CSCE) 2478
+- Programming Languages (CSCE) 1420
+
+----------------------------------------------------------------------------
+Year 3
+
+Fall Semester:
+- Introduction to Computer Systems (CSCE) 2479
+- Foundations of Software Engineering (CSCE) 2433
+- Statistics I (STAT) 2301
+
+Spring Semester:
+- Design and Analysis of Algorithms (CSCE) 1488
+- Differential Equations (MATH) 1428
+- Statistics II (STAT) 2302
+
+----------------------------------------------------------------------------
+Year 4
+
+Fall Semester:
+- Computer Science elective
+- University Core Curriculum 
+- Concentration area elective 
+
+Spring Semester:
+- Senior Capstone Design (CSCE) 1366
+- University Core Curriculum 
+- Concentration area elective 
