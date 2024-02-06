@@ -1,0 +1,53 @@
+
+                          *** Biology Degree Plan ***
+
+Year 1
+
+Fall Semester:
+- Principles of Biology I (BIOL) 1306
+- General Chemistry I (CHEM) 1311
+- Calculus I (MATH) 2413
+
+Spring Semester:
+- Principles of Biology II (BIOL) 1307
+- General Chemistry II (CHEM) 1312
+- Calculus II (MATH) 2414
+
+----------------------------------------------------------------------------
+Year 2
+
+Fall Semester:
+- Molecular Cell Biology (BIOL) 2411
+- Organic Chemistry I (CHEM) 1302
+- College Physics I	(PHYS) 2301
+
+Spring Semester:
+- Genes, Ecology and Evolution (BIOL) 2332
+- Organic Chemistry II (CHEM) 1303
+- College Physics	II (PHYS) 2302
+
+----------------------------------------------------------------------------
+Year 3
+
+Fall Semester:
+- Biochemistry I (BIOL) 1315
+- Principles of Genetics (GENE) 2419
+- Statistics for Biology (STAT) 2309
+
+Spring Semester:
+- Biochemistry II (BIOL) 1316
+- Bacteriophage Genomics (GENE) 2358
+- Biology of Mammalian Cells and Tissues (VIBS) 2415
+
+----------------------------------------------------------------------------
+Year 4
+
+Fall Semester:
+- Biological Oceanography (BIOL) 1345
+- Histology (VIBS) 1332
+- General elective
+
+Spring Semester:
+- State and Local Government (POLS) 2418
+- General elective
+- General elective
