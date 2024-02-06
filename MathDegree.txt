@@ -1,0 +1,53 @@
+
+                            *** Math Degree Plan ***
+
+Year 1
+
+Fall Semester:
+- Composition I (ENGL) 1301
+- Calculus I (MATH) 2413
+- General Elective
+
+Spring Semester:
+- Calculus II (MATH) 2414
+- Programming I (CSCE) 1301
+- General Elective
+
+----------------------------------------------------------------------------
+Year 2
+
+Fall Semester:
+- Several Variable Calculus (MATH) 2341
+- Foundations of Mathematics (MATH) 1342
+- University Core Curriculum 
+
+Spring Semester:
+- Differential Equations (MATH) 1398
+- Linear Algebra (MATH) 2318
+- Newtonian Mechanics for Engineering and Science (PHYS) 2302
+
+----------------------------------------------------------------------------
+Year 3
+
+Fall Semester:
+- Advanced Calculus I (MATH) 1323
+- Modern Algebra I (MATH) 1326
+- Communication for Technical Professions (COMM) 1327
+
+Spring Semester:
+- Advanced Calculus II (MATH) 1324
+- Modern Algebra II (MATH) 1327
+- Electricity and Magnetism for Engineering and Science (PHYS) 2454
+
+----------------------------------------------------------------------------
+Year 4
+
+Fall Semester:
+- Statistics I (STAT) 2301
+- Math Elective
+- Science Elective
+
+Spring Semester:
+- Math Elective
+- General Elective
+- General Elective
