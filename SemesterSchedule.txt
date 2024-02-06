@@ -1,0 +1,20 @@
+ Sub. | Cred. |           Title               | Instruction Method | Part of Term | Days |           Time               | Instructor |
+ ENGL  3.0     Composition I                   Face-to-Face         Full Semester  MW     10:10 AM - 12:00 PM             TBA
+ ENGL  3.0     Composition II                  Face-to-Face         Full Semester  MW     10:10 AM - 12:00 PM             TBA
+ MATH  3.0     College Algebra I               Online on a Schedule Full Semester  TR     08:10 AM - 10:00 AM             TBA
+ MATH  4.0     Calculus I                      Face-to-Face         Full Semester  MW     10:10 AM - 12:00 PM             TBA
+ MATH  4.0     Calculus II                     Online Anytime       Full Semester  MW                                     TBA
+ MATH  4.0     Linear Algebra I                Online Anytime       Full Semester  TR                                     TBA
+ BIOL  3.0     Princ. of Biology I             Face-to-Face         Full Semester  TR     10:10 AM - 12:00 PM             TBA
+ BIOL  3.0     Princ. of Biology II            Online on a Schedule Full Semester  MW     10:10 AM - 12:00 PM             TBA 
+ GOVT  4.0     Texas Government I              Face-to-Face         Full Semester  TR     11:45 AM - 01:35 PM             TBA
+ECON  4.0     Princ. of Macroeconomics I      Online Anytime       Full Semester  MW                                     TBA
+ECON  4.0     Princ. of Macroeconomics II     Face-to-Face         Full Semester  TR     11:45 AM - 01:35 PM             TBA
+PSYC  4.0     General Psychology I            Face-to-Face         Full Semester  MW     08:10 AM - 10:00 PM             TBA
+EDUC  3.0     Intro to Teaching Profession I  Face-to-Face         Full Semester  MW     01:20 PM - 03:20 PM             TBA
+MATH  4.0     Statistics I                    Online Anytime       Full Semester  TR                                     TBA
+MATH  4.0     Statistics II                   Face-to-Face         Full Semester  MW     11:45 AM - 01:35 PM             TBA
+HIST  3.0     U.S History I                   Online on a Schedule Full Semester  MW     08:10 AM - 10:00 AM             TBA
+HIST  3.0     U.S History II                  Face-to-Face         Full Semester  TR     10:10 AM - 12:00 PM             TBA
+CHEM  3.0     General Chemistry I             Online on a Schedule Full Semester  MW     11:45 AM - 01:35 PM             TBA
+CHEM  3.0     General Chemistry II            Face-to-Face         Full Semester  TR     01:20 PM - 03:20 PM             TBA
